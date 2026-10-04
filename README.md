@@ -1,3 +1,13 @@
+# Expense Tracker
+
+A Vue 3 application for recording income and expenses, showing the current balance, and managing a transaction list with browser-local persistence.
+
+## Usage
+
+Install with `npm ci`, start development with `npm run dev`, and create a production bundle with `npm run build`. `npm run preview` serves the built site locally.
+
+## Existing documentation
+
 # expense-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +37,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Author
+
+[rajivranjanmars](https://rajivranjana.in)
