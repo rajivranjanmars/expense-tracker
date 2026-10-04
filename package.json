@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.4",
-    "vite": "^6.4.3"
+    "vite": "^8.3.2"
   },
   "author": {
     "name": "rajivranjanmars",
